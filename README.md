@@ -9,5 +9,5 @@
 Este projeto foi desenvolvido durante as aulas do curso OneBitCode e consiste básicamente em uma landing page com informações sobre uma clínica veterinária.
 
 <div align="center"
-  <img src="/assets/img/arquivo.gif">
+  <img src="/assets/image/demo.png">
 </div>
