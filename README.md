@@ -11,4 +11,8 @@ Este projeto foi desenvolvido durante as aulas do curso OneBitCode e consiste b�
 <div align="center"
   
   ## ![Texto Alternativo](https://github.com/marianasciment0/PetLife/blob/main/assets/image/demo.png)
+
+  ## 🐶 🐱 🐭  🐰 🦊 🐻 🐼 🐨 🐯 🦁 🐮 🐷 🐵🦉 🐺
+  
 </div>
+
